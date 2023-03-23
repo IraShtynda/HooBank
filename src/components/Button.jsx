@@ -1,4 +1,3 @@
-import React from 'react'
 
 const Button = ({styles}) => {
   return (
@@ -8,4 +7,4 @@ const Button = ({styles}) => {
   )
 }
 
-export default Button
+export default Button;
