@@ -17,7 +17,6 @@ const FeatureCard = ({ icon, title, content, index }) => (
     </div>
   </div>
 );
-
 const Business = () => (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
